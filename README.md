@@ -1,5 +1,11 @@
 # Luma Swarm Studio
 
+
+
+https://github.com/user-attachments/assets/c04d0072-edc0-47b7-afd2-4c4d368185a1
+
+
+
 **Version 1.0**
 
 Luma Swarm Studio is a native, cinematic 3D drone-show simulator and choreography editor built in Rust with `wgpu`, WGSL compute/render shaders, and `egui`. It targets macOS and Apple Silicon first while using portable APIs that also work on Windows and Linux.

@@ -1,0 +1,5 @@
+/target
+/dist
+/project-structure.txt
+*.luma.ron
+.DS_Store

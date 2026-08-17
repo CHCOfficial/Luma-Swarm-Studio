@@ -98,8 +98,6 @@ Build or refresh the self-contained, ad-hoc signed Mac application with:
 
 This always compiles the current release source, embeds the complete multi-resolution `assets/AppIcon.icns` generated from `assets/app-icon-master.png`, and replaces both `dist/Luma Swarm Studio.app` and its clean signed ZIP. The command-line release binary and packaged application therefore come from the same build.
 
-For the exact source/release files to publish and the GitHub steps, see [`RELEASING.md`](RELEASING.md). Commit the source tree, but attach `dist/Luma Swarm Studio.zip` to the GitHub V1.0 release instead of committing `dist/`.
-
 ## Creator and support
 
 - Support: [Buy Me a Coffee](https://buymeacoffee.com/CHCOfficial)
